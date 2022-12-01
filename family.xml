@@ -1,0 +1,26 @@
+<family>
+		<son id="son1">
+			<name>Iqb</name>
+			<age>40</age>
+		</son>
+		<son id="son2">	
+			<name>Ars</name>
+			<age>37</age>
+		</son>
+		<son id="son3">	
+			<name>Abd</name>
+			<age>33</age>
+		</son>
+		<son id="son4">
+			<name>Nai</name>
+			<age>30</age>
+		</son>
+		<son id="son5">
+			<name>Sk</name>
+			<age>27</age>
+		</son>
+		<son id="son6">
+			<name>Ak</name>
+			<age>24</age>
+		</son>
+</family>
